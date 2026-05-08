@@ -14,10 +14,10 @@ Cyber Crime, Kidnapping & Assault on Modesty.
 ## 📷 Dashboard Preview
 
 ### Overview Page
-![Overview]()
+![Overview](overview.png)
 
 ### State Analysis Page
-![State Analysis](yahan-apna-link-paste-karo)
+![State Analysis]()
 
 ---
 
